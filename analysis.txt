@@ -1,0 +1,5 @@
+complexity analysis
+1. In the worst case of the reverse function, the complexity will be O(N) becasuse there is only one operation (std::swap) inside the while loop, 
+multiplied by the loop size, which is N.
+2. In the worst case of the remove_if() function, the complexity is O(N) because there is only one operation (erase) inside the for loop and if statement 
+which is multiplied by the loop size which is N. 
